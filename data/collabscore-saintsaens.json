@@ -1,0 +1,333 @@
+{
+  "pieces": {
+    "all-collabscore-saintsaens-ref-C080_0": {
+      "opus": {
+        "opus": "C080",
+        "title": "La feuille de peuplier",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Arnable Tastu"
+        },
+        "genre": "Lied",
+        "key": "E minor",
+        "meter": "2/4",
+        "year": "1853",
+        "ref:neuma": "all:collabscore:saintsaens-ref:C080_0"
+      },
+      "sources": [
+        {
+          "score": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-ref-C080_0/ref_mei.xml",
+          "contributors":
+          {
+            "encoder": "Aurélien Balland Chatignon, Thomas Bottini, Christophe Guillotel-Nothmann, Fabien Guilloux, Simon Raguet",
+            "editor": "IReMUS / CollabScore" 
+          }
+        },
+        {
+          "score:gallica": "ark:/12148/bpt6k1162028r",
+          "dmos": "http://neuma.huma-num.fr/media/sources/all-collabscore-saintsaens-ref-C080_0/dmos.json",
+          "contributors":
+          {
+            "editor": "S. Richault (Paris)",
+            "omr": "IRISA / DMOS / CollabScore"
+          },
+          "license": "Public Domain"
+        }
+        {
+          "audio:yt": "F8DCj78VyTE",
+          "year": "2000",
+          "contributors":
+          {
+            "performer": "Veronika Kincses, Anikó P. Szabó",
+            "editor": "Hungaroton Records"
+          } 
+        },
+        {
+          "audio:yt": "ImHV53sGSMk",
+          "year": "2013",
+          "contributors":
+          {
+            "performer": "Bart Schneemann, Paolo Giacometti",
+            "editor": "Brilliant Classics"
+          },
+          "album": "Saint-Saëns: Mélodies sans paroles"
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C036_0": {
+      "opus": {
+        "opus": "C036",
+        "collection": "Cinq poèmes de Ronsard",
+        "title": "2. L'amour blessé",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Pierre de Ronsard"
+        },
+        "genre": "Lied",
+        "key": "A minor",
+        "meter": "4/4",
+        "year": "1921"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C036_0"
+        },
+        {
+          "audio:yt": "JZkWfBIP3dI",
+          "year": "2016",
+          "contributors":
+          {
+            "performer": "Jeff Cohen, Tassis Christoyannis"
+          } 
+        },  
+        {
+          "audio:yt": "RC0NgG668Qk",
+          "year": "2013",
+          "contributors":
+          {
+            "performer": "Didier Henry, Angéline Pondepeyre"
+          } 
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C046_0": {
+      "opus": {
+        "opus": "C046",
+        "collection": "Cinq poèmes de Ronsard",
+        "title": "5. L'amant malheureux",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Pierre de Ronsard"
+        },
+        "genre": "Lied",
+        "key": "A minor",
+        "meter": "3/8",
+        "year": "1921"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C046_0"
+        },
+        {
+          "audio:yt": "9fxQ-Ail_wI",
+          "year": "2016",
+          "contributors":
+          {
+            "performer": "Jeff Cohen, Tassis Christoyannis"
+          }
+        },
+        {
+          "audio:yt": "yTwEdAmFSWw",
+          "year": "2013",
+          "contributors":
+          {
+            "performer": "Didier Henry, Angéline Pondepeyre"
+          }
+        }
+      ]
+    },  
+    "all-collabscore-saintsaens-ref-C079_0": {
+      "opus": {
+        "opus": "C079",
+        "title": "La coccinelle",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Victor Hugo"
+        },
+        "genre": "Lied",
+        "key": "E major",
+        "meter": "4/4",
+        "year": "1868",
+        "ref:musicbrainz": "dd0206e8-bac5-40e5-9b60-73474c467ce9"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C079_0"
+        },
+        {
+          "audio:yt": "Fk_cUHihOVI",
+          "year": "2018",
+          "contributors":
+          {
+            "performer":  "Sabine Revault d'Allonnes, Stéphanie Humeau"
+          },
+          "album": "Bestiaire",
+          "ref:musicbrainz": "ed80fa40-4871-4669-9509-18bcfee420fd" 
+        },  
+        {
+          "audio:yt": "cmL1St1lyPg",
+          "year": "2020",
+          "contributors":
+          {
+            "performer": "Iryna Kyshliaruk, Yun-Ho Chen"
+          },
+          "info": "Atelier Saint-Saëns (juillet 2020), Abbaye de Royaumont, IReMus"
+        },  
+        {
+          "audio:yt": "Xoo8ue5bfPA",
+          "year": "2018",
+          "contributors":
+          {
+            "performer": "François Le Roux, Graham Johnson"
+          } 
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-R171_0": {
+      "opus": {
+        "opus": "R171",
+        "title": "Danse macabre",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Henri Cazalis"
+        },
+        "genre": "Lied",
+        "key": "G minor",
+        "meter": "3/4",
+        "year": "1873",
+        "ref:wikipedia": "Danse_macabre_(Saint-Saëns)",
+        "ref:wikipedia:fr": "Danse_macabre_(Saint-Saëns)"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:R171_0"
+        },
+        {
+          "audio:yt": "gTdndPJmqUY",
+          "year": "2018",
+          "contributors":
+          {
+            "performer": "François Le Roux, Graham Johnson"
+          }
+        },
+        {
+          "audio:yt": "ihDNDredHOA",
+          "year": "2022",
+          "contributors":
+          {
+            "performer": "Madison Fitzpatrick, Travis Bloom"
+          }
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C141_0": {
+      "opus": {
+        "opus": "C141",
+        "title": "Guitare",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Victor Hugo"
+        },
+        "genre": "Lied",
+        "key": "E major",
+        "meter": "6/8",
+        "year": "1851"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C141_0"
+        },
+        {
+          "audio:yt": "RfR6IBKR2dA",
+          "year": "2018",
+          "contributors":
+          {
+            "performer": "Soraya Mafi, François Le Roux, Graham Johnson"
+          }
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C437_0": {
+      "opus": {
+        "opus": "C437, op 68.1",
+        "collection": "Deux choeurs, op. 68",
+        "title": "Calme des nuits",
+        "contributors": {
+          "composer": "Camille Saint-Saëns"
+        },
+        "genre": "Choral",
+        "key": "D major",
+        "meter": "4/4",
+        "year": "1882",
+        "ref:imslp": "2_Choruses%2C_Op.68_(Saint-Saëns%2C_Camille)",
+        "ref:musicbrainz": "ff0f0692-56be-492c-9ec0-0ffc6406c853"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C437_0"
+        },
+        {
+          "audio:yt": "y_fi65ZTVUA",
+          "year": "2004",
+          "contributors":
+          {
+            "performer": "Radio Svizzera Choir, Diego Fasolis"
+          }
+        },
+        {
+          "audio:yt": "PBirqYvzXt0",
+          "year": "2021",
+          "contributors":
+          {
+            "performer": "CORO Vocal Artists, Kelsey Legore"
+          }
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C455_0": {
+      "opus": {
+        "opus": "C455",
+        "title": "Ode d'Horace",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "Horace"
+        },
+        "genre": "Choral",
+        "key": "C minor",
+        "meter": "4/4",
+        "year": "1905"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C455_0"
+        },
+        {
+          "audio:yt": "xtMgv0KtCko",
+          "year": "2023",
+          "contributors":
+          {
+            "performer": "CMAC: The University of Chicago Glee Club"
+          }
+        }
+      ]
+    },
+    "all-collabscore-saintsaens-ref-C452_0": {
+      "opus": {
+        "opus": "C452, op 71.1",
+        "collection": "Deux choeurs, op. 71",
+        "title": "Les marins de Kermor",
+        "contributors": {
+          "composer": "Camille Saint-Saëns",
+          "lyricist": "T. Saint-Félix"
+        },
+        "genre": "Choral",
+        "key": "F major",
+        "meter": "4/4",
+        "year": "1884"
+      },
+      "sources": [
+        {
+          "score:neuma": "all:collabscore:saintsaens-ref:C452_0"
+        },
+        {
+          "audio:yt": "vw4ZTTj4bwU",
+          "year": "2004",
+          "contributors":
+          {
+            "performer": "Radio Svizzera Choir, Diego Fasolis"
+          }
+        }
+      ]
+    }
+  }
+}
